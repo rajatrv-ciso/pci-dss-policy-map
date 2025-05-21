@@ -1,6 +1,10 @@
 # 🛡️ PCI DSS Policy Mind Map
 
-This repository contains a structured Markdown mind map of the PCI DSS (Payment Card Industry Data Security Standard) policy. The map outlines how cardholder data (CHD) is secured, accessed, monitored, and maintained to meet PCI compliance requirements.
+![PCI DSS Compliant](https://img.shields.io/badge/PCI--DSS-Compliant-2e7d32?style=flat-square&logo=datadog&logoColor=white)
+![Markdown](https://img.shields.io/badge/format-Markdown-blue?style=flat-square&logo=markdown)
+![Visualization Ready](https://img.shields.io/badge/mindmap-ready-brightgreen?style=flat-square&logo=visualstudiocode)
+
+This repository contains a structured Markdown mind map of the PCI DSS (Payment Card Industry Data Security Standard) policy. The map outlines how cardholder data (CHD) should be secured, accessed, monitored, and maintained to meet PCI compliance requirements.
 
 ## 📂 File Included
 
@@ -36,5 +40,5 @@ The Markdown format is compatible with most mind-mapping tools (e.g., **XMind**,
 This repository is licensed under the [MIT License](./LICENSE).
 
 ---
-> Contributions and forks welcome if you're extending PCI frameworks.
 
+> Contributions and forks are welcome to extend or adapt the PCI DSS mind map.
