@@ -3,7 +3,7 @@
 ## 1. Purpose
 - Establish security standards and procedures
 - Protect Cardholder Data (CHD) in line with PCI DSS
-- Guide for IT and Operations at SuccessKPI
+- Guide for IT and Operations
 
 ## 2. Scope
 - Applies to all systems and users handling CHD
